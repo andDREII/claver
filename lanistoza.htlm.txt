@@ -1,0 +1,187 @@
+<html>
+<title>ANDRIANA</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body class="w3-content" style="max-width:2500px">
+
+<!-- First Grid: Logo & About -->
+<div class="w3-row">
+  <div class="w3-half w3-black w3-container w3-center" style="height:1000px">
+    <div class="w3-padding-84">
+      
+
+
+
+
+<h1>My Info</h1>
+    </div>
+    <div class="w3-padding-64">
+      <a href="#" class="w3-button w3-black w3-pink w3-hover-blue-grey w3-padding-16">MY SCHOOL</a>
+      <a href="#work" class="w3-button w3-black w3-block w3-er-teal w3-padding-16">ABOUT ME</a>
+      <a href="http://www.rvmonline.net/ndrvmcc/"w3-button w3-black w3-block w3-hover-dark-grey w3-padding-16">NDRVMCC WEBSITE</a>
+      <a href="#contact" class="w3-button w3-black w3-block w3-hover-brown w3-padding-16">Get in touch</a>  
+      <a href="http://www.youtube.com/channel/UCmKiseaQIA7ZCI_fkgemS0g/"w3=black w3-block w3-black w3-block w3-hover-dark-grey w3-padding-16">YOUTUBE CHANNEl</a>
+    </div>
+  </div>
+  <div class="w3-half w3-blue-grey w3-container" style="height:1000px">
+    <div class="w3-padding-64 w3-center">
+      <h1>About Me</h1>
+      <img src="th.jpg" class="w3-margin w3-circle" alt="Person" style="width:50%">
+      <div class="ipg">
+        <p>HI I AM ANDRIANA L CLAVER CURRENTLY STUDYING AT ND-RVM COLLEGE OF COTABATO,I put the school seal to this webpage because the seal of the school is characteristically Marian. The central motif is monogram AM which means Ave Maria. Hail Mary, the angelic salutation which is an ejaculatory praise of the Mother of God, Mother and the Patroness of the School. The twelve stars refer to the Vision of St. John. The stars represent extraordinary privileges bestowed by God on Mary.
+
+The rays radiating from the monogram signify the graces which come to us through Mary, from Jesus, the symbolization of the congregation?s motto: To Jesus with Mary.
+
+Etched below the monogram is the figure of an open book upon which is inscribed the schools motto INITIUM SAPIENTE TIMOR DOMINI. Fear of God is the beginning of Wisdom.
+
+ 
+
+This is the real essence of education. The school is intent on imparting a filial fear of the Lord, a knowledge of the Lord, who in truth is the beginning of wisdom, for wisdom here means the Knowledge, the grasping and understanding of truth. If because of human frailty one fails to grasp the full meaning of such truth, at least the study of the science of God, Religion, is the beginning of wisdom.
+
+Immediately below the book is the white Sampaguita flower, the national flower of the Philippines. It stands for a congregations founded by a Filipina, Venerable Ignacia Del Espiritu Santo.
+
+I am a MARIAN and I am proud to say that, every student are well discipline here at NDRVMCC. From the other tables of this website you can see my pictures and all those stuffs represents my life as you can see at the pictures I also have my details below you can contact me throught.</p>
+        <p></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Second Grid: Work & Resume -->
+<div class="w3-row">
+  <div class="w3-half w3-light-pink w3-center" style="min-height:800px" id="work">
+   	<img src="rvm.jpg" style=width: 100%">
+
+
+	 <div class="w3-padding-84">
+      <h2>My Treasure</h2>
+
+      <p>Her Mom's Baby Girl.</p>
+    </div>
+    <div class="j.jpg" style=width: 100%">
+      <div class="w3-half">
+        <img src="j.jpg" style="width:100%">
+      </div>
+      <div class="w3-half">
+        <img src="b.jpg" style="width:100%">
+      </div>
+    </div>
+    <div class="w3-row w3-hide-small">
+      <div class="w3-half">
+        <img src="c.jpg" style="width:100%">
+      </div>
+      <div class="w3-half">
+        <img src="d.jpg" style="width:100%">
+      </div>
+    </div>
+
+    <div class="w3-row w3-hide-small">
+      <div class="w3-half">
+        <img src="fam'.jpg" style="width:100%">
+      </div>
+      <div class="w3-half">
+        <img src="h.jpg" style="width:100%">
+      </div>
+    </div><br>
+    <img src="f.jpg." style="width:100%">
+	<img src="w.jpg." style="width:100%">
+	<img src="3a.jpg." style="width:100%">
+	<img src="q.jpg." style="width:100%">
+</div>
+  <div class="w3-half w3-indigo w3-container" style="min-height:800px">
+    <div class="w3-padding-64 w3-center">
+      <h2>My Favorite Year of my Entire Life</h2>
+      <div class="w3-container w3-responsive">
+        <table class="w3-table">
+          <tr>
+            <th>Year</th>
+            <th>Title</th>
+            <th>Where</th>
+          </tr>
+          <tr class="w3-white">
+            <td>2001</td>
+            <td>I was born..</td>
+            <td>Quihano Hospital, Tacurong City</td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr class="w3-white">
+            <td>2008</td>
+            <td>Graduated In Kindergarten as Valedictorians</td>
+            <td>Cherobeem Methodis Learning Center, Tacurong City</td>
+          </tr>
+          <tr>
+            <td>2014</td>
+            <td> Graduated in Elementary</td>
+            <td>St.John Learning Center INC., Tacurong City</td>
+          </tr>
+          <tr class="w3-white">
+            <td>2016</td>
+            <td>Wen't in Manila to attend a "Batang Transformer" as one of the participants of the school</td>
+            <td>Manila to Antipolo City</td>
+          </tr>
+          <tr class="w3-hide-medium">
+            <td>Last May 31,2018</td>
+            <td>High School Graduate</td>
+            <td>Mindanao State Universuty ILSHS</td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Third Grid: Swing By & Contact -->
+<div class="w3-row" id="contact">
+  <div class="w3-half w3-dark-grey w3-container w3-center" style="height:700px">
+    <div class="w3-padding-64">
+      <h1>Swing By</h1>
+    </div>
+    <div class="w3-padding-64">
+      <p>..for a cup of coffee, or whatever.</p>
+      <p>Cotabato City, Philippines</p>
+      <p>+639651252105</p>
+      <p>andriana.claver@yahoo.com</p>
+    </div>
+  </div>
+  <div class="w3-half w3-teal w3-container" style="height:700px">
+    <div class="w3-padding-84 w3-padding-large">
+      <h1>Contact</h1>
+      <p class="w3-opacity">GET IN TOUCH</p>
+      <form class="w3-container w3-card w3-padding-32 w3-white" action="/action_page.php" target="_blank">
+        <div class="w3-section">
+          <label>Name: Andriana Samantha Lanistoza Claver</label>
+          <input class="w3-input" style="width:100%;" type="text" required name="Name">
+        </div>
+        <div class="w3-section">
+          <label>Email: andchhsamntha@gmail.com</label>
+          <input class="w3-input" style="width:100%;" type="text" required name="Email">
+        </div>
+        <div class="w3-section">
+          <label>Message:
+Twitter: @andch
+Instagram:@andreiiyanna
+Snapchat: @sclaver2001
+Youtube: https://www.youtube.com/channel/UCmKiseaQIA7ZCI_fkgemS0g
+        </div>
+        <button type="submit" class="w3-button w3-teal w3-right">Send</button>
+      </form>
+    </div>
+  </div>
+</div>
+
+
+
+
+<!-- Footer -->
+<footer class="w3-container w3-black w3-padding-16">
+  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+</footer>
+
+</body>
+</html>
+
